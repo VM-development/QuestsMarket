@@ -1,0 +1,24 @@
+{
+  "id": "deworm-the-cat",
+  "name": "Deworm the cat",
+  "category": "Pet",
+  "tags": [
+    "pet",
+    "health"
+  ],
+  "rating": 4.4,
+  "recurrence": "monthly",
+  "dayOfMonth": 1,
+  "times": [
+    "10:00"
+  ],
+  "stats": [
+    "health"
+  ],
+  "colorHex": "#E8A33D",
+  "icon": "pills",
+  "xpValue": 5,
+  "notesFormat": "markdown",
+  "author": "Golden Grace",
+  "owner": "pet"
+}

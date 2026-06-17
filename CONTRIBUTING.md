@@ -18,7 +18,8 @@ a folder; the root `catalog.json` is a light index. See [README.md](README.md) f
 - **One quest per folder**, focused and reusable ("Morning run", not "Get fit").
 - **`id` must be unique and stable** — it's the folder name, the index key, and how the app de-dupes.
 - **`icon`** must be a real [SF Symbol](https://developer.apple.com/sf-symbols/), or omit it.
-- **`stats`** may only be: `vitality`, `fitness`, `wealth`, `social`, `grooming`.
+- **`owner`** is `"character"` (default) or `"pet"`. Use `"pet"` for cat-care quests (brushing, vet, …).
+- **`stats`** must match the owner: character → `vitality`, `fitness`, `wealth`, `social`, `grooming`; pet → `cleanliness`, `health`, `wellness`.
 - **`times`** are 24-hour `"HH:mm"`. Omit them for an "anytime" quest (won't send reminders).
 - **`rating`** is editorial (0–5). Be honest; new entries can start around 4.0.
 - **description** is 1–3 sentences. Markdown preferred; HTML only when you need images.

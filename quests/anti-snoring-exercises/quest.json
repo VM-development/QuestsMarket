@@ -1,0 +1,26 @@
+{
+  "id": "anti-snoring-exercises",
+  "name": "Anti-snoring exercises",
+  "category": "Sleep",
+  "tags": [
+    "sleep",
+    "snoring",
+    "breathing",
+    "throat"
+  ],
+  "rating": 4.5,
+  "recurrence": "daily",
+  "times": [
+    "21:00"
+  ],
+  "stats": [
+    "vitality"
+  ],
+  "colorHex": "#5B6CF0",
+  "icon": "zzz",
+  "xpValue": 10,
+  "notesFormat": "html",
+  "author": "Golden Grace",
+  "owner": "character",
+  "addedAt": "2026-06-18"
+}

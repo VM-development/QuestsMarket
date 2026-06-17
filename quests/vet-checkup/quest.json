@@ -1,0 +1,24 @@
+{
+  "id": "vet-checkup",
+  "name": "Vet check-up",
+  "category": "Pet",
+  "tags": [
+    "pet",
+    "wellness"
+  ],
+  "rating": 4.7,
+  "recurrence": "monthly",
+  "dayOfMonth": 1,
+  "times": [
+    "10:00"
+  ],
+  "stats": [
+    "wellness"
+  ],
+  "colorHex": "#E8A33D",
+  "icon": "cross.case",
+  "xpValue": 5,
+  "notesFormat": "markdown",
+  "author": "Golden Grace",
+  "owner": "pet"
+}

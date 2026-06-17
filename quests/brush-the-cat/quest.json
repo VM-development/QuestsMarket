@@ -1,0 +1,26 @@
+{
+  "id": "brush-the-cat",
+  "name": "Brush the cat",
+  "category": "Pet",
+  "tags": [
+    "pet",
+    "grooming"
+  ],
+  "rating": 4.6,
+  "recurrence": "weekly",
+  "daysOfWeek": [
+    6
+  ],
+  "times": [
+    "19:00"
+  ],
+  "stats": [
+    "cleanliness"
+  ],
+  "colorHex": "#E8A33D",
+  "icon": "sparkles",
+  "xpValue": 5,
+  "notesFormat": "markdown",
+  "author": "Golden Grace",
+  "owner": "pet"
+}

@@ -69,8 +69,9 @@ description file next to it. Only `id` and `name` are required.
 | `dayOfMonth` | int | **Monthly only.** `1`–`31` (clamps to month length). |
 | `month`, `day` | int | **Yearly only** (`month` 1–12, `day` 1–31). |
 | `times` | string[] | 24-hour `"HH:mm"`. Omit for an "anytime" quest (no reminder). |
-| `stats` | string[] | Character stats boosted. Allowed: `vitality`, `fitness`, `wealth`, `social`, `grooming`. |
-| `xpValue` | int | XP per completion (default `10`). |
+| `owner` | string | `"character"` (default) · `"pet"` — whose stats the quest boosts. |
+| `stats` | string[] | Stats boosted. For `owner: "character"`: `vitality`, `fitness`, `wealth`, `social`, `grooming`. For `owner: "pet"`: `cleanliness`, `health`, `wellness`. |
+| `xpValue` | int | XP per completion (default `10`). XP always accrues to your character. |
 | `notesFormat` | string | `"markdown"` (default) · `"html"` — tells the app whether to load `description.md` or `description.html`. |
 | `author` | string | Your handle / credit. |
 
@@ -124,7 +125,8 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for validation commands.
 - **`id` is unique, kebab-case, and stable** — it's the folder name, the index key, and how the app
   de-dupes. Renaming it later orphans anyone who added it.
 - **`icon`** must be a real SF Symbol, or omit it.
-- **`stats`** may only be the five listed above.
+- **`owner`** is `"character"` (default) or `"pet"`. Set `"pet"` for cat-care quests.
+- **`stats`** must match the owner: character quests use `vitality`/`fitness`/`wealth`/`social`/`grooming`; pet quests use `cleanliness`/`health`/`wellness`. Stats outside the owner's set are ignored.
 - **`times`** are 24-hour `"HH:mm"`; omit for an anytime quest.
 - **`rating`** is honest and editorial — don't ship everything at 5.0.
 - Keep colors readable (`#RRGGBB`).
