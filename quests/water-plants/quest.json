@@ -1,0 +1,25 @@
+{
+  "id": "water-plants",
+  "name": "Water the plants",
+  "category": "Home",
+  "tags": [
+    "care",
+    "weekly"
+  ],
+  "rating": 3.9,
+  "recurrence": "weekly",
+  "daysOfWeek": [
+    2
+  ],
+  "times": [
+    "09:00"
+  ],
+  "stats": [
+    "grooming"
+  ],
+  "colorHex": "#1FAA59",
+  "icon": "leaf.fill",
+  "xpValue": 5,
+  "notesFormat": "markdown",
+  "author": "Golden Grace"
+}

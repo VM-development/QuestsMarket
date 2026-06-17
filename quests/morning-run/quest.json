@@ -1,0 +1,23 @@
+{
+  "id": "morning-run",
+  "name": "Morning run",
+  "category": "Fitness",
+  "tags": [
+    "cardio",
+    "outdoors"
+  ],
+  "rating": 4.7,
+  "recurrence": "daily",
+  "times": [
+    "07:00"
+  ],
+  "stats": [
+    "fitness",
+    "vitality"
+  ],
+  "colorHex": "#E8743B",
+  "icon": "figure.run",
+  "xpValue": 15,
+  "notesFormat": "markdown",
+  "author": "Golden Grace"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "walk-8k",
+  "name": "Walk 8k steps",
+  "category": "Fitness",
+  "tags": [
+    "cardio",
+    "easy"
+  ],
+  "rating": 4.5,
+  "recurrence": "daily",
+  "stats": [
+    "fitness",
+    "vitality"
+  ],
+  "colorHex": "#E8743B",
+  "icon": "figure.walk",
+  "xpValue": 10,
+  "notesFormat": "markdown",
+  "author": "Golden Grace"
+}

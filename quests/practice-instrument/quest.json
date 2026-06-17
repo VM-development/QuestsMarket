@@ -1,0 +1,22 @@
+{
+  "id": "practice-instrument",
+  "name": "Practice an instrument",
+  "category": "Mind",
+  "tags": [
+    "skill",
+    "creative"
+  ],
+  "rating": 4.3,
+  "recurrence": "daily",
+  "times": [
+    "19:00"
+  ],
+  "stats": [
+    "social"
+  ],
+  "colorHex": "#C75BA0",
+  "icon": "music.note",
+  "xpValue": 10,
+  "notesFormat": "markdown",
+  "author": "Golden Grace"
+}

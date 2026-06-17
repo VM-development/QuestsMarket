@@ -1,0 +1,22 @@
+{
+  "id": "take-vitamins",
+  "name": "Take vitamins",
+  "category": "Health",
+  "tags": [
+    "routine",
+    "supplements"
+  ],
+  "rating": 4.0,
+  "recurrence": "daily",
+  "times": [
+    "08:30"
+  ],
+  "stats": [
+    "vitality"
+  ],
+  "colorHex": "#2E8B8B",
+  "icon": "pills.fill",
+  "xpValue": 4,
+  "notesFormat": "markdown",
+  "author": "Golden Grace"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "weekly-review",
+  "name": "Weekly review",
+  "category": "Productivity",
+  "tags": [
+    "planning",
+    "weekly"
+  ],
+  "rating": 4.6,
+  "recurrence": "weekly",
+  "daysOfWeek": [
+    6
+  ],
+  "times": [
+    "17:00"
+  ],
+  "stats": [
+    "wealth",
+    "social"
+  ],
+  "colorHex": "#5B6CF0",
+  "icon": "checklist",
+  "xpValue": 14,
+  "notesFormat": "markdown",
+  "author": "Golden Grace"
+}

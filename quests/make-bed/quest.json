@@ -1,0 +1,22 @@
+{
+  "id": "make-bed",
+  "name": "Make your bed",
+  "category": "Home",
+  "tags": [
+    "morning",
+    "easy-win"
+  ],
+  "rating": 4.0,
+  "recurrence": "daily",
+  "times": [
+    "08:00"
+  ],
+  "stats": [
+    "grooming"
+  ],
+  "colorHex": "#F2B705",
+  "icon": "bed.double.fill",
+  "xpValue": 4,
+  "notesFormat": "markdown",
+  "author": "Golden Grace"
+}

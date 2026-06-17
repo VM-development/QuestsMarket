@@ -1,0 +1,22 @@
+{
+  "id": "digital-sunset",
+  "name": "Digital sunset",
+  "category": "Mind",
+  "tags": [
+    "sleep",
+    "screens"
+  ],
+  "rating": 4.5,
+  "recurrence": "daily",
+  "times": [
+    "22:00"
+  ],
+  "stats": [
+    "vitality"
+  ],
+  "colorHex": "#5B6CF0",
+  "icon": "moon.fill",
+  "xpValue": 8,
+  "notesFormat": "markdown",
+  "author": "Golden Grace"
+}

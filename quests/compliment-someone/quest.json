@@ -1,0 +1,19 @@
+{
+  "id": "compliment-someone",
+  "name": "Compliment someone",
+  "category": "Social",
+  "tags": [
+    "kindness",
+    "connection"
+  ],
+  "rating": 4.1,
+  "recurrence": "daily",
+  "stats": [
+    "social"
+  ],
+  "colorHex": "#C75BA0",
+  "icon": "hand.thumbsup.fill",
+  "xpValue": 5,
+  "notesFormat": "markdown",
+  "author": "Golden Grace"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "no-spend-day",
+  "name": "No-spend day",
+  "category": "Finance",
+  "tags": [
+    "money",
+    "discipline"
+  ],
+  "rating": 4.1,
+  "recurrence": "daily",
+  "stats": [
+    "wealth"
+  ],
+  "colorHex": "#1FAA59",
+  "icon": "banknote.fill",
+  "xpValue": 8,
+  "notesFormat": "markdown",
+  "author": "Golden Grace"
+}

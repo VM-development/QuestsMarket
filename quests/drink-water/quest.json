@@ -1,0 +1,24 @@
+{
+  "id": "drink-water",
+  "name": "Drink water",
+  "category": "Health",
+  "tags": [
+    "hydration",
+    "energy"
+  ],
+  "rating": 4.8,
+  "recurrence": "daily",
+  "times": [
+    "09:00",
+    "13:00",
+    "18:00"
+  ],
+  "stats": [
+    "vitality"
+  ],
+  "colorHex": "#2E8B8B",
+  "icon": "drop.fill",
+  "xpValue": 5,
+  "notesFormat": "markdown",
+  "author": "Golden Grace"
+}

@@ -1,0 +1,314 @@
+[
+  {
+    "id": "drink-water",
+    "name": "Drink water",
+    "category": "Health",
+    "tags": [
+      "hydration",
+      "energy"
+    ],
+    "rating": 4.8,
+    "icon": "drop.fill",
+    "colorHex": "#2E8B8B"
+  },
+  {
+    "id": "morning-run",
+    "name": "Morning run",
+    "category": "Fitness",
+    "tags": [
+      "cardio",
+      "outdoors"
+    ],
+    "rating": 4.7,
+    "icon": "figure.run",
+    "colorHex": "#E8743B"
+  },
+  {
+    "id": "strength-workout",
+    "name": "Strength workout",
+    "category": "Fitness",
+    "tags": [
+      "strength",
+      "gym"
+    ],
+    "rating": 4.6,
+    "icon": "dumbbell.fill",
+    "colorHex": "#D7263D"
+  },
+  {
+    "id": "meditate",
+    "name": "Meditate 10 min",
+    "category": "Mind",
+    "tags": [
+      "calm",
+      "focus"
+    ],
+    "rating": 4.9,
+    "icon": "leaf.fill",
+    "colorHex": "#5B6CF0"
+  },
+  {
+    "id": "read-pages",
+    "name": "Read 20 pages",
+    "category": "Mind",
+    "tags": [
+      "learning",
+      "books"
+    ],
+    "rating": 4.5,
+    "icon": "book.fill",
+    "colorHex": "#C75BA0"
+  },
+  {
+    "id": "journal",
+    "name": "Journal",
+    "category": "Mind",
+    "tags": [
+      "reflection",
+      "writing"
+    ],
+    "rating": 4.4,
+    "icon": "pencil.and.outline",
+    "colorHex": "#8A8F98"
+  },
+  {
+    "id": "gratitude",
+    "name": "Gratitude — 3 things",
+    "category": "Mind",
+    "tags": [
+      "mood",
+      "reflection"
+    ],
+    "rating": 4.7,
+    "icon": "heart.fill",
+    "colorHex": "#C75BA0"
+  },
+  {
+    "id": "stretch",
+    "name": "Stretch / mobility",
+    "category": "Fitness",
+    "tags": [
+      "mobility",
+      "recovery"
+    ],
+    "rating": 4.4,
+    "icon": "figure.cooldown",
+    "colorHex": "#E8743B"
+  },
+  {
+    "id": "walk-8k",
+    "name": "Walk 8k steps",
+    "category": "Fitness",
+    "tags": [
+      "cardio",
+      "easy"
+    ],
+    "rating": 4.5,
+    "icon": "figure.walk",
+    "colorHex": "#E8743B"
+  },
+  {
+    "id": "skincare",
+    "name": "Skincare",
+    "category": "Health",
+    "tags": [
+      "grooming",
+      "routine"
+    ],
+    "rating": 4.2,
+    "icon": "drop.triangle.fill",
+    "colorHex": "#2E8B8B"
+  },
+  {
+    "id": "tidy-space",
+    "name": "Tidy your space",
+    "category": "Home",
+    "tags": [
+      "environment",
+      "reset"
+    ],
+    "rating": 4.2,
+    "icon": "sparkles",
+    "colorHex": "#F2B705"
+  },
+  {
+    "id": "make-bed",
+    "name": "Make your bed",
+    "category": "Home",
+    "tags": [
+      "morning",
+      "easy-win"
+    ],
+    "rating": 4.0,
+    "icon": "bed.double.fill",
+    "colorHex": "#F2B705"
+  },
+  {
+    "id": "review-budget",
+    "name": "Review budget",
+    "category": "Finance",
+    "tags": [
+      "money",
+      "weekly"
+    ],
+    "rating": 4.3,
+    "icon": "creditcard.fill",
+    "colorHex": "#1FAA59"
+  },
+  {
+    "id": "no-spend-day",
+    "name": "No-spend day",
+    "category": "Finance",
+    "tags": [
+      "money",
+      "discipline"
+    ],
+    "rating": 4.1,
+    "icon": "banknote.fill",
+    "colorHex": "#1FAA59"
+  },
+  {
+    "id": "call-loved-one",
+    "name": "Call a loved one",
+    "category": "Social",
+    "tags": [
+      "relationships",
+      "weekly"
+    ],
+    "rating": 4.6,
+    "icon": "phone.fill",
+    "colorHex": "#C75BA0"
+  },
+  {
+    "id": "learn-language",
+    "name": "Language — 15 min",
+    "category": "Mind",
+    "tags": [
+      "learning",
+      "skill"
+    ],
+    "rating": 4.5,
+    "icon": "character.book.closed.fill",
+    "colorHex": "#5B6CF0"
+  },
+  {
+    "id": "weekly-review",
+    "name": "Weekly review",
+    "category": "Productivity",
+    "tags": [
+      "planning",
+      "weekly"
+    ],
+    "rating": 4.6,
+    "icon": "checklist",
+    "colorHex": "#5B6CF0"
+  },
+  {
+    "id": "cold-shower",
+    "name": "Cold shower",
+    "category": "Health",
+    "tags": [
+      "resilience",
+      "energy"
+    ],
+    "rating": 4.3,
+    "icon": "snowflake",
+    "colorHex": "#2E8B8B"
+  },
+  {
+    "id": "take-vitamins",
+    "name": "Take vitamins",
+    "category": "Health",
+    "tags": [
+      "routine",
+      "supplements"
+    ],
+    "rating": 4.0,
+    "icon": "pills.fill",
+    "colorHex": "#2E8B8B"
+  },
+  {
+    "id": "floss",
+    "name": "Floss",
+    "category": "Health",
+    "tags": [
+      "dental",
+      "easy-win"
+    ],
+    "rating": 3.9,
+    "icon": "face.smiling",
+    "colorHex": "#2E8B8B"
+  },
+  {
+    "id": "plan-tomorrow",
+    "name": "Plan tomorrow",
+    "category": "Productivity",
+    "tags": [
+      "planning",
+      "evening"
+    ],
+    "rating": 4.4,
+    "icon": "calendar",
+    "colorHex": "#5B6CF0"
+  },
+  {
+    "id": "deep-work",
+    "name": "Deep work block",
+    "category": "Productivity",
+    "tags": [
+      "focus",
+      "work"
+    ],
+    "rating": 4.7,
+    "icon": "brain.head.profile",
+    "colorHex": "#5B6CF0"
+  },
+  {
+    "id": "practice-instrument",
+    "name": "Practice an instrument",
+    "category": "Mind",
+    "tags": [
+      "skill",
+      "creative"
+    ],
+    "rating": 4.3,
+    "icon": "music.note",
+    "colorHex": "#C75BA0"
+  },
+  {
+    "id": "water-plants",
+    "name": "Water the plants",
+    "category": "Home",
+    "tags": [
+      "care",
+      "weekly"
+    ],
+    "rating": 3.9,
+    "icon": "leaf.fill",
+    "colorHex": "#1FAA59"
+  },
+  {
+    "id": "digital-sunset",
+    "name": "Digital sunset",
+    "category": "Mind",
+    "tags": [
+      "sleep",
+      "screens"
+    ],
+    "rating": 4.5,
+    "icon": "moon.fill",
+    "colorHex": "#5B6CF0"
+  },
+  {
+    "id": "compliment-someone",
+    "name": "Compliment someone",
+    "category": "Social",
+    "tags": [
+      "kindness",
+      "connection"
+    ],
+    "rating": 4.1,
+    "icon": "hand.thumbsup.fill",
+    "colorHex": "#C75BA0"
+  }
+]

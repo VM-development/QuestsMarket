@@ -1,0 +1,25 @@
+{
+  "id": "call-loved-one",
+  "name": "Call a loved one",
+  "category": "Social",
+  "tags": [
+    "relationships",
+    "weekly"
+  ],
+  "rating": 4.6,
+  "recurrence": "weekly",
+  "daysOfWeek": [
+    5
+  ],
+  "times": [
+    "19:00"
+  ],
+  "stats": [
+    "social"
+  ],
+  "colorHex": "#C75BA0",
+  "icon": "phone.fill",
+  "xpValue": 12,
+  "notesFormat": "markdown",
+  "author": "Golden Grace"
+}

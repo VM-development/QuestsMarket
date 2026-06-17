@@ -1,0 +1,23 @@
+{
+  "id": "plan-tomorrow",
+  "name": "Plan tomorrow",
+  "category": "Productivity",
+  "tags": [
+    "planning",
+    "evening"
+  ],
+  "rating": 4.4,
+  "recurrence": "daily",
+  "times": [
+    "21:00"
+  ],
+  "stats": [
+    "wealth",
+    "social"
+  ],
+  "colorHex": "#5B6CF0",
+  "icon": "calendar",
+  "xpValue": 6,
+  "notesFormat": "markdown",
+  "author": "Golden Grace"
+}

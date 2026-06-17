@@ -1,0 +1,22 @@
+{
+  "id": "read-pages",
+  "name": "Read 20 pages",
+  "category": "Mind",
+  "tags": [
+    "learning",
+    "books"
+  ],
+  "rating": 4.5,
+  "recurrence": "daily",
+  "times": [
+    "21:00"
+  ],
+  "stats": [
+    "social"
+  ],
+  "colorHex": "#C75BA0",
+  "icon": "book.fill",
+  "xpValue": 10,
+  "notesFormat": "markdown",
+  "author": "Golden Grace"
+}

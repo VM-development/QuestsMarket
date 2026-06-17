@@ -1,0 +1,27 @@
+{
+  "id": "strength-workout",
+  "name": "Strength workout",
+  "category": "Fitness",
+  "tags": [
+    "strength",
+    "gym"
+  ],
+  "rating": 4.6,
+  "recurrence": "weekly",
+  "daysOfWeek": [
+    0,
+    2,
+    4
+  ],
+  "times": [
+    "18:00"
+  ],
+  "stats": [
+    "fitness"
+  ],
+  "colorHex": "#D7263D",
+  "icon": "dumbbell.fill",
+  "xpValue": 20,
+  "notesFormat": "markdown",
+  "author": "Golden Grace"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "floss",
+  "name": "Floss",
+  "category": "Health",
+  "tags": [
+    "dental",
+    "easy-win"
+  ],
+  "rating": 3.9,
+  "recurrence": "daily",
+  "times": [
+    "22:30"
+  ],
+  "stats": [
+    "grooming"
+  ],
+  "colorHex": "#2E8B8B",
+  "icon": "face.smiling",
+  "xpValue": 4,
+  "notesFormat": "markdown",
+  "author": "Golden Grace"
+}

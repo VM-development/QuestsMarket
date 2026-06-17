@@ -1,0 +1,22 @@
+{
+  "id": "journal",
+  "name": "Journal",
+  "category": "Mind",
+  "tags": [
+    "reflection",
+    "writing"
+  ],
+  "rating": 4.4,
+  "recurrence": "daily",
+  "times": [
+    "22:00"
+  ],
+  "stats": [
+    "vitality"
+  ],
+  "colorHex": "#8A8F98",
+  "icon": "pencil.and.outline",
+  "xpValue": 8,
+  "notesFormat": "markdown",
+  "author": "Golden Grace"
+}

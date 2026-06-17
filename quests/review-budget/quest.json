@@ -1,0 +1,25 @@
+{
+  "id": "review-budget",
+  "name": "Review budget",
+  "category": "Finance",
+  "tags": [
+    "money",
+    "weekly"
+  ],
+  "rating": 4.3,
+  "recurrence": "weekly",
+  "daysOfWeek": [
+    6
+  ],
+  "times": [
+    "10:00"
+  ],
+  "stats": [
+    "wealth"
+  ],
+  "colorHex": "#1FAA59",
+  "icon": "creditcard.fill",
+  "xpValue": 12,
+  "notesFormat": "markdown",
+  "author": "Golden Grace"
+}

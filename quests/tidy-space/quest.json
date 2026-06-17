@@ -1,0 +1,22 @@
+{
+  "id": "tidy-space",
+  "name": "Tidy your space",
+  "category": "Home",
+  "tags": [
+    "environment",
+    "reset"
+  ],
+  "rating": 4.2,
+  "recurrence": "daily",
+  "times": [
+    "20:00"
+  ],
+  "stats": [
+    "grooming"
+  ],
+  "colorHex": "#F2B705",
+  "icon": "sparkles",
+  "xpValue": 6,
+  "notesFormat": "markdown",
+  "author": "Golden Grace"
+}

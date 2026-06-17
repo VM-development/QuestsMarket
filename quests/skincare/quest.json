@@ -1,0 +1,23 @@
+{
+  "id": "skincare",
+  "name": "Skincare",
+  "category": "Health",
+  "tags": [
+    "grooming",
+    "routine"
+  ],
+  "rating": 4.2,
+  "recurrence": "daily",
+  "times": [
+    "07:00",
+    "22:00"
+  ],
+  "stats": [
+    "grooming"
+  ],
+  "colorHex": "#2E8B8B",
+  "icon": "drop.triangle.fill",
+  "xpValue": 5,
+  "notesFormat": "markdown",
+  "author": "Golden Grace"
+}

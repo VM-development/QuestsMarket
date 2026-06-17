@@ -1,0 +1,29 @@
+{
+  "id": "deep-work",
+  "name": "Deep work block",
+  "category": "Productivity",
+  "tags": [
+    "focus",
+    "work"
+  ],
+  "rating": 4.7,
+  "recurrence": "weekly",
+  "daysOfWeek": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "times": [
+    "09:00"
+  ],
+  "stats": [
+    "wealth"
+  ],
+  "colorHex": "#5B6CF0",
+  "icon": "brain.head.profile",
+  "xpValue": 16,
+  "notesFormat": "markdown",
+  "author": "Golden Grace"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "gratitude",
+  "name": "Gratitude — 3 things",
+  "category": "Mind",
+  "tags": [
+    "mood",
+    "reflection"
+  ],
+  "rating": 4.7,
+  "recurrence": "daily",
+  "times": [
+    "21:30"
+  ],
+  "stats": [
+    "vitality",
+    "social"
+  ],
+  "colorHex": "#C75BA0",
+  "icon": "heart.fill",
+  "xpValue": 6,
+  "notesFormat": "markdown",
+  "author": "Golden Grace"
+}

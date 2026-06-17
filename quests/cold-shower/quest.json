@@ -1,0 +1,22 @@
+{
+  "id": "cold-shower",
+  "name": "Cold shower",
+  "category": "Health",
+  "tags": [
+    "resilience",
+    "energy"
+  ],
+  "rating": 4.3,
+  "recurrence": "daily",
+  "times": [
+    "07:45"
+  ],
+  "stats": [
+    "vitality"
+  ],
+  "colorHex": "#2E8B8B",
+  "icon": "snowflake",
+  "xpValue": 8,
+  "notesFormat": "markdown",
+  "author": "Golden Grace"
+}

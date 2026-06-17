@@ -1,0 +1,22 @@
+{
+  "id": "learn-language",
+  "name": "Language — 15 min",
+  "category": "Mind",
+  "tags": [
+    "learning",
+    "skill"
+  ],
+  "rating": 4.5,
+  "recurrence": "daily",
+  "times": [
+    "18:30"
+  ],
+  "stats": [
+    "social"
+  ],
+  "colorHex": "#5B6CF0",
+  "icon": "character.book.closed.fill",
+  "xpValue": 10,
+  "notesFormat": "markdown",
+  "author": "Golden Grace"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "meditate",
+  "name": "Meditate 10 min",
+  "category": "Mind",
+  "tags": [
+    "calm",
+    "focus"
+  ],
+  "rating": 4.9,
+  "recurrence": "daily",
+  "times": [
+    "07:30"
+  ],
+  "stats": [
+    "vitality"
+  ],
+  "colorHex": "#5B6CF0",
+  "icon": "leaf.fill",
+  "xpValue": 10,
+  "notesFormat": "markdown",
+  "author": "Golden Grace"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "stretch",
+  "name": "Stretch / mobility",
+  "category": "Fitness",
+  "tags": [
+    "mobility",
+    "recovery"
+  ],
+  "rating": 4.4,
+  "recurrence": "daily",
+  "times": [
+    "07:15"
+  ],
+  "stats": [
+    "fitness"
+  ],
+  "colorHex": "#E8743B",
+  "icon": "figure.cooldown",
+  "xpValue": 8,
+  "notesFormat": "markdown",
+  "author": "Golden Grace"
+}
