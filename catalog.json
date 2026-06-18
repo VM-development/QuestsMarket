@@ -364,5 +364,32 @@
     "icon": "zzz",
     "colorHex": "#5B6CF0",
     "addedAt": "2026-06-18"
+  },
+  {
+    "id": "vacuum-apartment",
+    "name": "Vacuum the apartment",
+    "category": "Home",
+    "tags": [
+      "cleaning",
+      "chores"
+    ],
+    "rating": 4.3,
+    "icon": "house.fill",
+    "colorHex": "#2E8B8B",
+    "addedAt": "2026-06-18"
+  },
+  {
+    "id": "shoulder-training",
+    "name": "Shoulder training",
+    "category": "Fitness",
+    "tags": [
+      "strength",
+      "shoulders",
+      "dumbbell"
+    ],
+    "rating": 4.6,
+    "icon": "dumbbell.fill",
+    "colorHex": "#E8743B",
+    "addedAt": "2026-06-18"
   }
 ]

@@ -1,0 +1,30 @@
+{
+  "id": "shoulder-training",
+  "name": "Shoulder training",
+  "category": "Fitness",
+  "tags": [
+    "strength",
+    "shoulders",
+    "dumbbell"
+  ],
+  "rating": 4.6,
+  "recurrence": "weekly",
+  "daysOfWeek": [
+    0,
+    2,
+    4
+  ],
+  "times": [
+    "18:00"
+  ],
+  "stats": [
+    "fitness"
+  ],
+  "colorHex": "#E8743B",
+  "icon": "dumbbell.fill",
+  "xpValue": 20,
+  "notesFormat": "html",
+  "author": "Golden Grace",
+  "owner": "character",
+  "addedAt": "2026-06-18"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "vacuum-apartment",
+  "name": "Vacuum the apartment",
+  "category": "Home",
+  "tags": [
+    "cleaning",
+    "chores"
+  ],
+  "rating": 4.3,
+  "recurrence": "weekly",
+  "daysOfWeek": [
+    5
+  ],
+  "times": [
+    "10:00"
+  ],
+  "stats": [
+    "grooming"
+  ],
+  "colorHex": "#2E8B8B",
+  "icon": "house.fill",
+  "xpValue": 12,
+  "notesFormat": "markdown",
+  "author": "Golden Grace",
+  "owner": "character",
+  "addedAt": "2026-06-18"
+}
