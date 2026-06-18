@@ -1,8 +1,8 @@
 {
   "/Users/vadymmalakhatko/Development/Golden Grace/QuestsMarket/catalog.json": {
-    "mtime": 1781738025.6580446,
-    "ast_hash": "c6e9313adbd6f74829f26c83c12d8895",
-    "semantic_hash": "c6e9313adbd6f74829f26c83c12d8895"
+    "mtime": 1781812068.398796,
+    "ast_hash": "459fba6738b743d81c65563a15db2177",
+    "semantic_hash": "459fba6738b743d81c65563a15db2177"
   },
   "/Users/vadymmalakhatko/Development/Golden Grace/QuestsMarket/quests/anti-snoring-exercises/quest.json": {
     "mtime": 1781737993.4595757,
@@ -455,14 +455,14 @@
     "semantic_hash": "b984e34b8d543d36337b5c2f76711a05"
   },
   "/Users/vadymmalakhatko/Development/Golden Grace/golden-grace-ios/GoldenGrace/App/AppContainer.swift": {
-    "mtime": 1781715133.7852235,
-    "ast_hash": "f2d2775f89dffccc1897ebc608d7746f",
-    "semantic_hash": "f2d2775f89dffccc1897ebc608d7746f"
+    "mtime": 1781791939.6300063,
+    "ast_hash": "c40ac36c652ef742cb705165d3d9862c",
+    "semantic_hash": "c40ac36c652ef742cb705165d3d9862c"
   },
   "/Users/vadymmalakhatko/Development/Golden Grace/golden-grace-ios/GoldenGrace/App/AppDelegate.swift": {
-    "mtime": 1781605620.075331,
-    "ast_hash": "425e39d230146f004a9466f7f2a047b2",
-    "semantic_hash": "425e39d230146f004a9466f7f2a047b2"
+    "mtime": 1781789954.3244896,
+    "ast_hash": "3adb76e5fa19e019ada21611621dde77",
+    "semantic_hash": "3adb76e5fa19e019ada21611621dde77"
   },
   "/Users/vadymmalakhatko/Development/Golden Grace/golden-grace-ios/GoldenGrace/App/CompanionInspectView.swift": {
     "mtime": 1781642735.7785964,
@@ -475,9 +475,9 @@
     "semantic_hash": "e1d75c22d2474b29dff0f66ca26616f5"
   },
   "/Users/vadymmalakhatko/Development/Golden Grace/golden-grace-ios/GoldenGrace/App/CompanionsHeader.swift": {
-    "mtime": 1781711732.0995195,
-    "ast_hash": "363dc4d5c499c0ad9828f6131f2dcd21",
-    "semantic_hash": "363dc4d5c499c0ad9828f6131f2dcd21"
+    "mtime": 1781769587.3427086,
+    "ast_hash": "976cd9e8cc69f5d3ac95da39e8b9cc70",
+    "semantic_hash": "976cd9e8cc69f5d3ac95da39e8b9cc70"
   },
   "/Users/vadymmalakhatko/Development/Golden Grace/golden-grace-ios/GoldenGrace/App/GoldenGraceApp.swift": {
     "mtime": 1781605642.080607,
@@ -485,9 +485,9 @@
     "semantic_hash": "3607431bc0bcb8fbd2478719385a862f"
   },
   "/Users/vadymmalakhatko/Development/Golden Grace/golden-grace-ios/GoldenGrace/App/RootView.swift": {
-    "mtime": 1781711433.066982,
-    "ast_hash": "3e846c773aa844f68cb7d6b72a79278f",
-    "semantic_hash": "3e846c773aa844f68cb7d6b72a79278f"
+    "mtime": 1781792796.2188702,
+    "ast_hash": "d32553092d863c8ebb0700621bf978ab",
+    "semantic_hash": "d32553092d863c8ebb0700621bf978ab"
   },
   "/Users/vadymmalakhatko/Development/Golden Grace/golden-grace-ios/GoldenGrace/Resources/catalog.json": {
     "mtime": 1781716111.451605,
@@ -610,9 +610,9 @@
     "semantic_hash": "568d47479432f7fb753d811f0d178aa8"
   },
   "/Users/vadymmalakhatko/Development/Golden Grace/golden-grace-ios/Packages/GoldenGraceKit/Sources/FeatureCalendar/FeatureCalendar.swift": {
-    "mtime": 1781715834.8590975,
-    "ast_hash": "dc248096981f93c33e522a918cebc673",
-    "semantic_hash": "dc248096981f93c33e522a918cebc673"
+    "mtime": 1781769753.4457407,
+    "ast_hash": "62f8dda4b3becd7b6ac0f61177b2c031",
+    "semantic_hash": "62f8dda4b3becd7b6ac0f61177b2c031"
   },
   "/Users/vadymmalakhatko/Development/Golden Grace/golden-grace-ios/Packages/GoldenGraceKit/Sources/FeatureCalendar/MonthGridView.swift": {
     "mtime": 1781628719.2983422,
@@ -660,14 +660,14 @@
     "semantic_hash": "ead29514a37c857cb5ec94661e56e474"
   },
   "/Users/vadymmalakhatko/Development/Golden Grace/golden-grace-ios/Packages/GoldenGraceKit/Sources/FeatureHabits/HabitDetailView.swift": {
-    "mtime": 1781708886.80294,
-    "ast_hash": "1348a0f1effc98aa79dfba628fa3e017",
-    "semantic_hash": "1348a0f1effc98aa79dfba628fa3e017"
+    "mtime": 1781791852.7495482,
+    "ast_hash": "b1eb00d232d37c8527b652c199395731",
+    "semantic_hash": "b1eb00d232d37c8527b652c199395731"
   },
   "/Users/vadymmalakhatko/Development/Golden Grace/golden-grace-ios/Packages/GoldenGraceKit/Sources/FeatureHabits/HabitEditorView.swift": {
-    "mtime": 1781716062.5904562,
-    "ast_hash": "e753e1cbe5613310484ef7eec62c4ec4",
-    "semantic_hash": "e753e1cbe5613310484ef7eec62c4ec4"
+    "mtime": 1781770000.2047248,
+    "ast_hash": "1f340dd6e1b6ac439f584923073c6951",
+    "semantic_hash": "1f340dd6e1b6ac439f584923073c6951"
   },
   "/Users/vadymmalakhatko/Development/Golden Grace/golden-grace-ios/Packages/GoldenGraceKit/Sources/FeatureHabits/HabitEditorViewModel.swift": {
     "mtime": 1781716032.8799226,
@@ -675,9 +675,9 @@
     "semantic_hash": "6c255640c9977c09ba96e95490b1295e"
   },
   "/Users/vadymmalakhatko/Development/Golden Grace/golden-grace-ios/Packages/GoldenGraceKit/Sources/FeatureHabits/HabitListView.swift": {
-    "mtime": 1781715764.512073,
-    "ast_hash": "d79ca4b52bfde6e2b53e23b6554bbe8b",
-    "semantic_hash": "d79ca4b52bfde6e2b53e23b6554bbe8b"
+    "mtime": 1781769819.8930285,
+    "ast_hash": "3f331cb90ad79208877cd1d95fd73dff",
+    "semantic_hash": "3f331cb90ad79208877cd1d95fd73dff"
   },
   "/Users/vadymmalakhatko/Development/Golden Grace/golden-grace-ios/Packages/GoldenGraceKit/Sources/FeatureHabits/HabitListViewModel.swift": {
     "mtime": 1781715717.0485084,
@@ -690,9 +690,9 @@
     "semantic_hash": "6f08d80ae11a70e9c3571b481bb55a0c"
   },
   "/Users/vadymmalakhatko/Development/Golden Grace/golden-grace-ios/Packages/GoldenGraceKit/Sources/FeatureHabits/TodayView.swift": {
-    "mtime": 1781716288.002785,
-    "ast_hash": "b88dc866c0ffde2c7905087d7057fe84",
-    "semantic_hash": "b88dc866c0ffde2c7905087d7057fe84"
+    "mtime": 1781805939.7681923,
+    "ast_hash": "57c8022982ac271485f9f1b7c1b93c29",
+    "semantic_hash": "57c8022982ac271485f9f1b7c1b93c29"
   },
   "/Users/vadymmalakhatko/Development/Golden Grace/golden-grace-ios/Packages/GoldenGraceKit/Sources/FeatureHabits/TodayViewModel.swift": {
     "mtime": 1781715641.6399875,
@@ -710,9 +710,9 @@
     "semantic_hash": "7279fd909767d740ac393cf8bd99ae33"
   },
   "/Users/vadymmalakhatko/Development/Golden Grace/golden-grace-ios/Packages/GoldenGraceKit/Sources/FeatureMarket/MarketRootView.swift": {
-    "mtime": 1781715962.418291,
-    "ast_hash": "4c89ba01a42d5cb21307504cb7e1d99f",
-    "semantic_hash": "4c89ba01a42d5cb21307504cb7e1d99f"
+    "mtime": 1781769882.493782,
+    "ast_hash": "4f4e3efdfef4997001f5d8dffbca2d99",
+    "semantic_hash": "4f4e3efdfef4997001f5d8dffbca2d99"
   },
   "/Users/vadymmalakhatko/Development/Golden Grace/golden-grace-ios/Packages/GoldenGraceKit/Sources/FeatureMarket/MarketViewModel.swift": {
     "mtime": 1781715933.4405742,
@@ -745,9 +745,9 @@
     "semantic_hash": "72ab38d387379efa0e4d3088c4cae0e8"
   },
   "/Users/vadymmalakhatko/Development/Golden Grace/golden-grace-ios/Packages/GoldenGraceKit/Sources/FeatureSettings/FeatureSettings.swift": {
-    "mtime": 1781716270.4480712,
-    "ast_hash": "de6812beaf88cd8bafaf1eea299b68a7",
-    "semantic_hash": "de6812beaf88cd8bafaf1eea299b68a7"
+    "mtime": 1781789856.3465488,
+    "ast_hash": "b7f0d22c7af02b47387c96a0942645fe",
+    "semantic_hash": "b7f0d22c7af02b47387c96a0942645fe"
   },
   "/Users/vadymmalakhatko/Development/Golden Grace/golden-grace-ios/Packages/GoldenGraceKit/Sources/FeatureSettings/SettingsDependencies.swift": {
     "mtime": 1781609241.4471672,
@@ -970,9 +970,9 @@
     "semantic_hash": "9902d34f344f35992ffccd62f205035f"
   },
   "/Users/vadymmalakhatko/Development/Golden Grace/golden-grace-ios/Packages/GoldenGraceKit/Sources/Theming/ThemeEnvironment.swift": {
-    "mtime": 1781622780.718605,
-    "ast_hash": "529fd20d032842e776877697e9972616",
-    "semantic_hash": "529fd20d032842e776877697e9972616"
+    "mtime": 1781769470.4181278,
+    "ast_hash": "2bc8ed4b70c1a1c262cb5303c549033c",
+    "semantic_hash": "2bc8ed4b70c1a1c262cb5303c549033c"
   },
   "/Users/vadymmalakhatko/Development/Golden Grace/golden-grace-ios/Packages/GoldenGraceKit/Sources/Theming/ThemePalette.swift": {
     "mtime": 1781609185.647756,
@@ -1208,5 +1208,105 @@
     "mtime": 1781738215.3330157,
     "ast_hash": "b31c067ec2566f88dfa920e986133b85",
     "semantic_hash": "b31c067ec2566f88dfa920e986133b85"
+  },
+  "/Users/vadymmalakhatko/Development/Golden Grace/QuestsMarket/quests/shoulder-training/quest.json": {
+    "mtime": 1781812030.6640837,
+    "ast_hash": "8dace7c6f9e6d63a29e46f29665dee85",
+    "semantic_hash": "8dace7c6f9e6d63a29e46f29665dee85"
+  },
+  "/Users/vadymmalakhatko/Development/Golden Grace/QuestsMarket/quests/vacuum-apartment/quest.json": {
+    "mtime": 1781812015.5316992,
+    "ast_hash": "0891a57bee1af452426895d9b799b30f",
+    "semantic_hash": "0891a57bee1af452426895d9b799b30f"
+  },
+  "/Users/vadymmalakhatko/Development/Golden Grace/golden-grace-ios/GoldenGrace/Assets.xcassets/AppIcon.appiconset/Contents.json": {
+    "mtime": 1781795217.184678,
+    "ast_hash": "4961a1f6643ae7c67c849604a40b1d34",
+    "semantic_hash": "4961a1f6643ae7c67c849604a40b1d34"
+  },
+  "/Users/vadymmalakhatko/Development/Golden Grace/golden-grace-ios/GoldenGrace/Assets.xcassets/Contents.json": {
+    "mtime": 1781775548.6496947,
+    "ast_hash": "9deb2ada1cc834bbebf8bbad9c8978a1",
+    "semantic_hash": "9deb2ada1cc834bbebf8bbad9c8978a1"
+  },
+  "/Users/vadymmalakhatko/Development/Golden Grace/golden-grace-ios/Packages/GoldenGraceKit/Sources/Domain/QuestShareCodec.swift": {
+    "mtime": 1781792759.5598896,
+    "ast_hash": "488a3d794dbc68dd2b4c8850936140a9",
+    "semantic_hash": "488a3d794dbc68dd2b4c8850936140a9"
+  },
+  "/Users/vadymmalakhatko/Development/Golden Grace/golden-grace-ios/Packages/GoldenGraceKit/Sources/FeatureHabits/QuestShareButton.swift": {
+    "mtime": 1781791828.351173,
+    "ast_hash": "d21188ecfb66111aff8b617840647254",
+    "semantic_hash": "d21188ecfb66111aff8b617840647254"
+  },
+  "/Users/vadymmalakhatko/Development/Golden Grace/golden-grace-ios/Packages/GoldenGraceKit/Sources/GoldenGraceKitTests/QuestShareCodecTests.swift": {
+    "mtime": 1781792810.5183818,
+    "ast_hash": "070d45fcd63eac92b074fed724314c4b",
+    "semantic_hash": "070d45fcd63eac92b074fed724314c4b"
+  },
+  "/Users/vadymmalakhatko/Development/Golden Grace/golden-grace-ios/Packages/GoldenGraceKit/Sources/Models/SharedQuest.swift": {
+    "mtime": 1781792772.9190855,
+    "ast_hash": "42511938f13f6b7b36a156f76193c88e",
+    "semantic_hash": "42511938f13f6b7b36a156f76193c88e"
+  },
+  "/Users/vadymmalakhatko/Development/Golden Grace/golden-grace-ios/Packages/GoldenGraceKit/Sources/Theming/Glass.swift": {
+    "mtime": 1781793944.6664236,
+    "ast_hash": "16cd89fe0f0a37afe442cf3568d7d983",
+    "semantic_hash": "16cd89fe0f0a37afe442cf3568d7d983"
+  },
+  "/Users/vadymmalakhatko/Development/Golden Grace/QuestsMarket/quests/shoulder-training/description.html": {
+    "mtime": 1781812047.3010478,
+    "ast_hash": "7607d6af934bf92ff1122e22d12150e9",
+    "semantic_hash": "7607d6af934bf92ff1122e22d12150e9"
+  },
+  "/Users/vadymmalakhatko/Development/Golden Grace/QuestsMarket/quests/vacuum-apartment/description.md": {
+    "mtime": 1781812025.2459834,
+    "ast_hash": "f03f0ff434a41234eca8f30f0e66bb5a",
+    "semantic_hash": "f03f0ff434a41234eca8f30f0e66bb5a"
+  },
+  "/Users/vadymmalakhatko/Development/Golden Grace/golden-grace-ios/GoldenGrace/Assets.xcassets/AppIcon.appiconset/AppIcon-1024.png": {
+    "mtime": 1781795196.0823581,
+    "ast_hash": "3dce57cb5a89a8e810a245329e7bdc94",
+    "semantic_hash": "3dce57cb5a89a8e810a245329e7bdc94"
+  },
+  "/Users/vadymmalakhatko/Development/Golden Grace/golden-grace-ios/GoldenGrace/Assets.xcassets/AppIcon.appiconset/AppIcon-20@2x.png": {
+    "mtime": 1781795194.7144096,
+    "ast_hash": "969b5b1284f484bd1274ddfdfefea7ce",
+    "semantic_hash": "969b5b1284f484bd1274ddfdfefea7ce"
+  },
+  "/Users/vadymmalakhatko/Development/Golden Grace/golden-grace-ios/GoldenGrace/Assets.xcassets/AppIcon.appiconset/AppIcon-20@3x.png": {
+    "mtime": 1781795194.8001816,
+    "ast_hash": "f880bb8636572beff1631352e8b97c1e",
+    "semantic_hash": "f880bb8636572beff1631352e8b97c1e"
+  },
+  "/Users/vadymmalakhatko/Development/Golden Grace/golden-grace-ios/GoldenGrace/Assets.xcassets/AppIcon.appiconset/AppIcon-29@2x.png": {
+    "mtime": 1781795194.870082,
+    "ast_hash": "4429e584fc45736e46a44999c14cf9c4",
+    "semantic_hash": "4429e584fc45736e46a44999c14cf9c4"
+  },
+  "/Users/vadymmalakhatko/Development/Golden Grace/golden-grace-ios/GoldenGrace/Assets.xcassets/AppIcon.appiconset/AppIcon-29@3x.png": {
+    "mtime": 1781795195.0090065,
+    "ast_hash": "c0de0aa1557cc14532a1c7267b2b43f7",
+    "semantic_hash": "c0de0aa1557cc14532a1c7267b2b43f7"
+  },
+  "/Users/vadymmalakhatko/Development/Golden Grace/golden-grace-ios/GoldenGrace/Assets.xcassets/AppIcon.appiconset/AppIcon-40@2x.png": {
+    "mtime": 1781795195.266094,
+    "ast_hash": "903df591283f02167fc8ff2beb6f43ff",
+    "semantic_hash": "903df591283f02167fc8ff2beb6f43ff"
+  },
+  "/Users/vadymmalakhatko/Development/Golden Grace/golden-grace-ios/GoldenGrace/Assets.xcassets/AppIcon.appiconset/AppIcon-40@3x.png": {
+    "mtime": 1781795195.5630481,
+    "ast_hash": "2ba60c5562e87a8a4a72aad4e03ef49e",
+    "semantic_hash": "2ba60c5562e87a8a4a72aad4e03ef49e"
+  },
+  "/Users/vadymmalakhatko/Development/Golden Grace/golden-grace-ios/GoldenGrace/Assets.xcassets/AppIcon.appiconset/AppIcon-60@2x.png": {
+    "mtime": 1781795195.8314009,
+    "ast_hash": "2ba60c5562e87a8a4a72aad4e03ef49e",
+    "semantic_hash": "2ba60c5562e87a8a4a72aad4e03ef49e"
+  },
+  "/Users/vadymmalakhatko/Development/Golden Grace/golden-grace-ios/GoldenGrace/Assets.xcassets/AppIcon.appiconset/AppIcon-60@3x.png": {
+    "mtime": 1781795196.0199947,
+    "ast_hash": "1feca09e634480814095288b0082eb20",
+    "semantic_hash": "1feca09e634480814095288b0082eb20"
   }
 }
