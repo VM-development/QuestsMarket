@@ -1255,9 +1255,9 @@
     "semantic_hash": "16cd89fe0f0a37afe442cf3568d7d983"
   },
   "/Users/vadymmalakhatko/Development/Golden Grace/QuestsMarket/quests/shoulder-training/description.html": {
-    "mtime": 1781812047.3010478,
-    "ast_hash": "7607d6af934bf92ff1122e22d12150e9",
-    "semantic_hash": "7607d6af934bf92ff1122e22d12150e9"
+    "mtime": 1781813202.294749,
+    "ast_hash": "d14bb4420a3bbd573ffcb68c94414bf1",
+    "semantic_hash": "d14bb4420a3bbd573ffcb68c94414bf1"
   },
   "/Users/vadymmalakhatko/Development/Golden Grace/QuestsMarket/quests/vacuum-apartment/description.md": {
     "mtime": 1781812025.2459834,
@@ -1308,5 +1308,35 @@
     "mtime": 1781795196.0199947,
     "ast_hash": "1feca09e634480814095288b0082eb20",
     "semantic_hash": "1feca09e634480814095288b0082eb20"
+  },
+  "/Users/vadymmalakhatko/Development/Golden Grace/QuestsMarket/quests/shoulder-training/bent-over-row.jpg": {
+    "mtime": 1781813180.0316157,
+    "ast_hash": "e46dc4f6bdfcf21a952839908ea222b7",
+    "semantic_hash": "e46dc4f6bdfcf21a952839908ea222b7"
+  },
+  "/Users/vadymmalakhatko/Development/Golden Grace/QuestsMarket/quests/shoulder-training/floor-press.jpg": {
+    "mtime": 1781813180.967432,
+    "ast_hash": "d1922f1d6a8447639dc3dba03b2dfdc4",
+    "semantic_hash": "d1922f1d6a8447639dc3dba03b2dfdc4"
+  },
+  "/Users/vadymmalakhatko/Development/Golden Grace/QuestsMarket/quests/shoulder-training/goblet-squat.jpg": {
+    "mtime": 1781813179.0259948,
+    "ast_hash": "1d1cba2f5a51eec51b7eb34f19fcbe1c",
+    "semantic_hash": "1d1cba2f5a51eec51b7eb34f19fcbe1c"
+  },
+  "/Users/vadymmalakhatko/Development/Golden Grace/QuestsMarket/quests/shoulder-training/lateral-raise.jpg": {
+    "mtime": 1781813180.554066,
+    "ast_hash": "a7a9fe3b93b44ee85c34c998541def26",
+    "semantic_hash": "a7a9fe3b93b44ee85c34c998541def26"
+  },
+  "/Users/vadymmalakhatko/Development/Golden Grace/QuestsMarket/quests/shoulder-training/overhead-press.jpg": {
+    "mtime": 1781813179.561531,
+    "ast_hash": "a3e6cd4a0ff5fb59faf2c682d4bb66c3",
+    "semantic_hash": "a3e6cd4a0ff5fb59faf2c682d4bb66c3"
+  },
+  "/Users/vadymmalakhatko/Development/Golden Grace/QuestsMarket/quests/shoulder-training/plank.jpg": {
+    "mtime": 1781813181.463597,
+    "ast_hash": "cc11a8088b2a026bef9b596e1b1c72bf",
+    "semantic_hash": "cc11a8088b2a026bef9b596e1b1c72bf"
   }
 }

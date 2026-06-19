@@ -1,0 +1,59 @@
+[
+  {
+    "id": "sportsman",
+    "name": "Sportsman",
+    "description": "Build strength and endurance with a daily athletic routine.",
+    "icon": "figure.run",
+    "colorHex": "#E8743B",
+    "questIds": ["morning-run", "strength-workout", "stretch", "walk-8k", "cold-shower"]
+  },
+  {
+    "id": "balanced-person",
+    "name": "Balanced Person",
+    "description": "A well-rounded day across body, mind, and relationships.",
+    "icon": "circle.hexagongrid.fill",
+    "colorHex": "#5B6CF0",
+    "questIds": ["drink-water", "meditate", "journal", "deep-work", "call-loved-one", "digital-sunset"]
+  },
+  {
+    "id": "mindful-mornings",
+    "name": "Mindful Mornings",
+    "description": "Start calm and intentional, every morning.",
+    "icon": "sunrise.fill",
+    "colorHex": "#F2B705",
+    "questIds": ["meditate", "gratitude", "journal", "plan-tomorrow", "stretch"]
+  },
+  {
+    "id": "healthy-body",
+    "name": "Healthy Body",
+    "description": "Small daily habits that keep your body in good shape.",
+    "icon": "heart.fill",
+    "colorHex": "#1FAA59",
+    "questIds": ["drink-water", "take-vitamins", "floss", "walk-8k", "skincare"]
+  },
+  {
+    "id": "money-smart",
+    "name": "Money Smart",
+    "description": "Stay on top of your finances with steady money habits.",
+    "icon": "creditcard.fill",
+    "colorHex": "#2E8B8B",
+    "questIds": ["review-budget", "no-spend-day", "weekly-review", "plan-tomorrow"]
+  },
+  {
+    "id": "tidy-home",
+    "name": "Tidy Home",
+    "description": "Keep your space calm, clean, and cared for.",
+    "icon": "house.fill",
+    "colorHex": "#C75BA0",
+    "questIds": ["tidy-space", "make-bed", "water-plants"]
+  },
+  {
+    "id": "pet-care",
+    "name": "Pet Care",
+    "description": "Everything your companion needs to stay happy and healthy.",
+    "icon": "pawprint.fill",
+    "colorHex": "#F2B705",
+    "questIds": ["brush-the-cat", "deworm-the-cat", "vet-checkup"],
+    "owner": "pet"
+  }
+]

@@ -15,6 +15,7 @@ quest later — extra media, variants — without bloating the index):
 
 ```
 catalog.json                 # the browse INDEX: array of summaries
+bundles.json                 # themed packs: array of bundles (each a list of quest ids)
 quests/
   morning-run/
     quest.json               # the quest's full parameters (no description text)
@@ -107,6 +108,29 @@ description file next to it. Only `id` and `name` are required.
 The text shown on the quest's preview. Markdown by default; use `description.html` (and set
 `"notesFormat": "html"` in `quest.json`) if you need embedded images. 1–3 sentences is plenty.
 
+## `bundles.json` — themed packs (optional)
+
+A single JSON **array** of bundles. A bundle is a curated set of *existing* quests (e.g. "Sportsman",
+"Balanced Person") that the app shows as a pack with one **"Add all quests"** button. Bundles only
+**reference** quests by `id` — they never duplicate quest data.
+
+| Field | Type | Required | Notes |
+|---|---|:---:|---|
+| `id` | string | ✅ | Unique, kebab-case, stable. |
+| `name` | string | ✅ | Display name, e.g. "Sportsman". |
+| `description` | string | | One-line pitch shown on the card. |
+| `icon` | string | | An SF Symbol name. |
+| `colorHex` | string | | `"#RRGGBB"`. |
+| `questIds` | string[] | ✅ | The quests in the pack. **Each must be an existing `id` in `catalog.json`.** |
+| `owner` | string | | `"character"` (default) · `"pet"` — a `"pet"` bundle only appears when the pet is enabled. |
+
+```json
+{ "id": "sportsman", "name": "Sportsman",
+  "description": "Build strength and endurance with a daily athletic routine.",
+  "icon": "figure.run", "colorHex": "#E8743B",
+  "questIds": ["morning-run", "strength-workout", "stretch", "walk-8k", "cold-shower"] }
+```
+
 ---
 
 ## Add a quest (pull request)
@@ -130,3 +154,5 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for validation commands.
 - **`times`** are 24-hour `"HH:mm"`; omit for an anytime quest.
 - **`rating`** is honest and editorial — don't ship everything at 5.0.
 - Keep colors readable (`#RRGGBB`).
+- **Bundles** (`bundles.json`) only reference quests — every `questIds` entry must be an existing `id`
+  in `catalog.json`, or it's silently skipped when the pack is added.
