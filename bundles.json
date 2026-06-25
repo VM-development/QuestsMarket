@@ -55,5 +55,13 @@
     "colorHex": "#F2B705",
     "questIds": ["brush-the-cat", "deworm-the-cat", "vet-checkup"],
     "owner": "pet"
+  },
+  {
+    "id": "health-lifehacks",
+    "name": "Health lifehacks",
+    "description": "Small, practical health tweaks that pay off — posture, shoulder mobility, and hourly movement.",
+    "icon": "lightbulb.fill",
+    "colorHex": "#1FAA59",
+    "questIds": ["posture-shoulder-mobility", "stand-walk-hourly"]
   }
 ]

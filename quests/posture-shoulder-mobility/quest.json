@@ -1,0 +1,25 @@
+{
+  "id": "posture-shoulder-mobility",
+  "name": "Posture & shoulder mobility",
+  "category": "Health",
+  "tags": [
+    "posture",
+    "mobility",
+    "shoulders"
+  ],
+  "rating": 4.7,
+  "recurrence": "daily",
+  "times": [
+    "09:00"
+  ],
+  "stats": [
+    "fitness"
+  ],
+  "colorHex": "#2E8B8B",
+  "icon": "figure.flexibility",
+  "xpValue": 10,
+  "notesFormat": "html",
+  "author": "Golden Grace",
+  "owner": "character",
+  "addedAt": "2026-06-23"
+}

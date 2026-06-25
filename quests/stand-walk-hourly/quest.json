@@ -1,0 +1,33 @@
+{
+  "id": "stand-walk-hourly",
+  "name": "Stand & walk every hour",
+  "category": "Health",
+  "tags": [
+    "movement",
+    "sitting",
+    "energy"
+  ],
+  "rating": 4.7,
+  "recurrence": "daily",
+  "times": [
+    "09:00",
+    "10:00",
+    "11:00",
+    "12:00",
+    "13:00",
+    "14:00",
+    "15:00",
+    "16:00",
+    "17:00"
+  ],
+  "stats": [
+    "vitality"
+  ],
+  "colorHex": "#1FAA59",
+  "icon": "figure.walk",
+  "xpValue": 3,
+  "notesFormat": "html",
+  "author": "Golden Grace",
+  "owner": "character",
+  "addedAt": "2026-06-23"
+}

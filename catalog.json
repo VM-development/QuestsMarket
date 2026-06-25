@@ -391,5 +391,33 @@
     "icon": "dumbbell.fill",
     "colorHex": "#E8743B",
     "addedAt": "2026-06-18"
+  },
+  {
+    "id": "posture-shoulder-mobility",
+    "name": "Posture & shoulder mobility",
+    "category": "Health",
+    "tags": [
+      "posture",
+      "mobility",
+      "shoulders"
+    ],
+    "rating": 4.7,
+    "icon": "figure.flexibility",
+    "colorHex": "#2E8B8B",
+    "addedAt": "2026-06-23"
+  },
+  {
+    "id": "stand-walk-hourly",
+    "name": "Stand & walk every hour",
+    "category": "Health",
+    "tags": [
+      "movement",
+      "sitting",
+      "energy"
+    ],
+    "rating": 4.7,
+    "icon": "figure.walk",
+    "colorHex": "#1FAA59",
+    "addedAt": "2026-06-23"
   }
 ]

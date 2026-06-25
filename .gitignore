@@ -1,0 +1,5 @@
+# Graphify knowledge-graph output — regenerated locally (manifest churns on every refresh), not source.
+graphify-out/
+
+# macOS
+.DS_Store
